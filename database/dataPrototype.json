@@ -1,0 +1,163 @@
+{
+    "price": [
+        {
+            "stockCode": "VNM",
+            "last": 47500,
+            "time": 1602140700000,
+            "arrData": [{
+                "averagePrice": 62700,
+                "floorPrice": 55900,
+                "last": 47500
+            },{
+                "averagePrice": 61700,
+                "floorPrice": 56900,
+                "last": 61500
+            }],
+            "SMA": [{
+                "value_1": 110022
+            },
+            {
+                "value_1": 1234
+            }],
+            "lastUpdate": {
+                "time": 1602140700000,
+                "arrData": {
+                    "averagePrice": 62700,
+                    "floorPrice": 55900,
+                    "last": 47500
+                },
+                "SMA": {
+                    "value_1": 110022
+                }
+            }
+        },
+        {
+            "stockCode": "VCI",
+            "last": 60500,
+            "time": 1602140400000,
+            "arrData": [{
+                "averagePrice": 35700,
+                "floorPrice": 20900,
+                "last": 31500
+            },
+            {
+                "averagePrice": 62700,
+                "floorPrice": 55900,
+                "last": 60500
+            }],
+            "SMA": [{
+                "value_1": 110022
+            },
+            {
+                "value_1": 1234
+            }],
+            "lastUpdate": {
+                "time": 1602140700000,
+                "arrData": {
+                    "averagePrice": 62700,
+                    "floorPrice": 55900,
+                    "last": 47500
+                },
+                "SMA": {
+                    "value_1": 110022
+                }
+            }
+        },
+        {
+            "stockCode": "SSI",
+            "last": 80500,
+            "time": 1602140700000,
+            "arrData": [{
+                "averagePrice": 100700,
+                "floorPrice": 91900,
+                "last": 80500
+            },
+            {
+                "averagePrice": 62700,
+                "floorPrice": 55900,
+                "last": 60500
+            }],
+            "SMA": [{
+                "value_1": 110022
+            },
+            {
+                "value_1": 1234
+            }],
+            "lastUpdate": {
+                "time": 1602140700000,
+                "arrData": {
+                    "averagePrice": 62700,
+                    "floorPrice": 55900,
+                    "last": 47500
+                },
+                "SMA": {
+                    "value_1": 110022
+                }
+            }
+        },
+        {
+            "stockCode": "MWG",
+            "last": 24500,
+            "time": 1602140400000,
+            "arrData": [{
+                "averagePrice": 28700,
+                "floorPrice": 15900,
+                "last": 24500
+            },
+            {
+                "averagePrice": 62700,
+                "floorPrice": 55900,
+                "last": 60500
+            }],
+            "SMA": [{
+                "value_1": 110022
+            },
+            {
+                "value_1": 1234
+            }],
+            "lastUpdate": {
+                "time": 1602140700000,
+                "arrData": {
+                    "averagePrice": 62700,
+                    "floorPrice": 55900,
+                    "last": 47500
+                },
+                "SMA": {
+                    "value_1": 110022
+                }
+            }
+        },
+        {
+            "stockCode": "ACB",
+            "last": 55900,
+            "time": 1602140400000,
+            "arrData": [{
+                "averagePrice": 61700,
+                "floorPrice": 37900,
+                "last": 45500
+            },
+            {
+                "averagePrice": 62700,
+                "floorPrice": 55900,
+                "last": 55900
+            }],
+            "SMA": [{
+                "value_1": 110022
+            },
+            {
+                "value_1": 1234
+            }],
+            "lastUpdate": {
+                "time": 1602140700000,
+                "arrData": {
+                    "averagePrice": 62700,
+                    "floorPrice": 55900,
+                    "last": 47500
+                },
+                "SMA": {
+                    "value_1": 110022
+                }
+            }
+        }
+    ]
+}
